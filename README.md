@@ -25,7 +25,7 @@ Auto-Face-Doodling
 │   ├── app.py
 │   ├── model.json
 │   └── model.h5                                               
-└── Readme.md
+└── README.md
 ```
 
 Please see our demo in the presentation video.
