@@ -1,6 +1,6 @@
 # Auto Face Doodling
 
-This project aims at exploring, recognizing and further automatically generate the patterns of facial doodles, in- cluding eye, nose, ear, mouth and face, focusing on the as- pects of the word category and country based on the Quick, Draw! dataset from Google. 
+This project aims at exploring, recognizing and further automatically generate the patterns of facial doodles, in- cluding eye, nose, ear, mouth and face, focusing on the aspects of the word category and country based on the Quick, Draw! dataset from Google. 
 
 # Dataset:
 * https://github.com/googlecreativelab/quickdraw-dataset
