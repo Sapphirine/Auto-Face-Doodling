@@ -28,3 +28,4 @@ Auto-Face-Doodling
 └── Readme.md
 ```
 
+Please see our demo in presentation video.
